@@ -1,4 +1,5 @@
 # Demo 2: Simple TextInput element
+library(shiny)
 shinyUI(fluidPage(
   
   # Create a text input element
